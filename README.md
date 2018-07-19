@@ -40,7 +40,8 @@ pip install tensorflow
 ### Download vid2depth
 
 ```shell
-git clone --depth 1 https://github.com/tensorflow/models.git
+#git clone --depth 1 https://github.com/tensorflow/models.git
+git clone https://github.com/Shiaoming/vid2depth.git
 ```
 
 ## 2. Datasets
